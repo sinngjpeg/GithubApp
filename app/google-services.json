@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521104786503",
+    "project_id": "githubapp-9102a",
+    "storage_bucket": "githubapp-9102a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521104786503:android:f47e4f39c595f5eb1e1d62",
+        "android_client_info": {
+          "package_name": "com.sinngjpeg.githubapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521104786503-152ivl6ouhijin7kadpek1i2sqjom5ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBfA2IMYWy8w8rlhiCrwewpV_H3t_BanI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521104786503-152ivl6ouhijin7kadpek1i2sqjom5ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

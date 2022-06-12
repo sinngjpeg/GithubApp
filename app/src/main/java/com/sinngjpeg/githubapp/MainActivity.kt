@@ -6,6 +6,7 @@ import android.view.ViewGroup
 import android.widget.Button
 import com.google.firebase.analytics.FirebaseAnalytics
 import com.sinngjpeg.githubapp.databinding.ActivityMainBinding
+import com.sinngjpeg.githubapp.databinding.ItemRepositoryBinding
 
 class MainActivity : AppCompatActivity() {
 
@@ -14,11 +15,11 @@ class MainActivity : AppCompatActivity() {
     }
 
     private lateinit var analytics: FirebaseAnalytics
-    private lateinit var binding: ActivityMainBinding
+    private lateinit var binding: ItemRepositoryBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        binding = ActivityMainBinding.inflate(layoutInflater)
+        binding = ItemRepositoryBinding.inflate(layoutInflater)
         Thread.sleep(Constants.THREAD_SLEEP_SPLASH_SCREEN)
         setTheme(R.style.Theme_GithubApp)
         setContentView(binding.root)

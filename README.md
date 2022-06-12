@@ -1,2 +1,8 @@
 # GithubApp
-Repositório dedicado ao consumo da API do Github. 
+
+Repositorio dedicado a implementação do projeto Github App que tem como objetivo consultar a api do github e trazer os repositórios com mais estrelas em Kotlin.
+
+## Bibliotecas utilizadas:
+
+- Detekt - [https://detekt.dev/docs/intro]
+

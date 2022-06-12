@@ -6,6 +6,8 @@ plugins {
     id 'androidx.navigation.safeargs.kotlin'
 }
 
+apply from: '../config/detekt/detekt.gradle'
+
 android {
     compileSdk 32
 

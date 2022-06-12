@@ -13,6 +13,7 @@ Link da API com a lista de Repositórios: [https://api.github.com/search/reposit
 ## Bibliotecas utilizadas:
 
 - Detekt - [https://detekt.dev/docs/intro]
+- Firebase - [https://firebase.google.com/docs/android/setup?hl=pt-br]
 
 
 

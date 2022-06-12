@@ -9,6 +9,9 @@
     <string name="description_pull_request_description">Descrição do pull request</string>
     <string name="username_pull_request_description">Nome do usuário</string>
     <string name="fullname_pull_request_description">Nome completo do usuário</string>
+    <string name="repository_name_description">nome do repositorio</string>
+    <string name="repository_description">descrição do repositório</string>
+    <!--    strings titulos -->
     <string name="txt_repository_title">Repositório</string>
     <string name="txt_repository_description">Descrição</string>
 </resources>

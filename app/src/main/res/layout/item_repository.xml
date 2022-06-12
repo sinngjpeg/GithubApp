@@ -15,6 +15,7 @@
 
         <TextView
             android:layout_width="wrap_content"
+            android:importantForAccessibility="no"
             android:layout_height="wrap_content"
             android:layout_marginStart="@dimen/dimens_16dp"
             android:layout_marginTop="@dimen/dimens_16dp"
@@ -26,6 +27,7 @@
             android:id="@+id/tv_repository_title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+           android:contentDescription="@string/repository_name_description"
             android:layout_marginStart="@dimen/dimens_16dp"
             android:layout_marginTop="@dimen/dimens_8dp"
             android:layout_marginEnd="@dimen/dimens_16dp"
@@ -36,6 +38,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="@dimen/dimens_16dp"
+            android:importantForAccessibility="no"
             android:layout_marginTop="@dimen/dimens_16dp"
             android:layout_marginEnd="@dimen/dimens_16dp"
             android:text="@string/txt_repository_description"
@@ -44,6 +47,7 @@
         <TextView
             android:id="@+id/tv_repository_description"
             android:layout_width="wrap_content"
+          android:contentDescription="@string/repository_description"
             android:layout_height="wrap_content"
             android:layout_marginStart="@dimen/dimens_16dp"
             android:layout_marginTop="@dimen/dimens_8dp"

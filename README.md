@@ -14,3 +14,9 @@ Link da API com a lista de Repositórios: [https://api.github.com/search/reposit
 
 - Detekt - [https://detekt.dev/docs/intro]
 
+
+
+## Links Uteis:
+
+- [JSONSCHEMA2POJO](https://www.jsonschema2pojo.org/)
+

@@ -1,6 +1,6 @@
 <resources>
     <!--    strings github kotlin pop -->
-    <string name="app_name">Github App</string>
+    <string name="app_name">Github</string>
     <string name="no_pulls_found">Nenhum pull request encontrado para este repositório</string>
     <string name="error">Algo deu errado, tente novamente em alguns minutos</string>
     <string name="title_pull_request_description">Título do pull request</string>
